@@ -7,16 +7,38 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
+
+# Build files
 dist
 dist-ssr
+
+# Local files
 *.local
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Zip files or any archives
+*.zip
+*.tar.gz
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+# OS-specific files
 .DS_Store
+Thumbs.db
+
+# Webstorm specific
+.idea
+
+# Miscellaneous
 *.suo
 *.ntvs*
 *.njsproj
