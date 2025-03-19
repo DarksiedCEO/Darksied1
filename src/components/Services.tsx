@@ -6,7 +6,7 @@ const Services: React.FC = () => {
             <div className="container" style={{ maxWidth: '1200px', margin: '0 auto' }}>
                 <h2>What We Do</h2>
                 <p style={{ color: '#666', maxWidth: '700px', marginBottom: '20px' }}>
-                    At darksied-website, we specialize in designing, building, and deploying algorithmic trading
+                    At Darksied, we specialize in designing, building, and deploying algorithmic trading
                     solutions that empower our clients to excel in today’s fast-paced financial markets.
                     Our multi-disciplinary expertise spans AI-driven strategy development, real-time data
                     analytics, and cutting-edge risk management.
